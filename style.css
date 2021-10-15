@@ -1,0 +1,45 @@
+body{
+	background:#b8f7ff;
+}
+
+#container{
+	background:white;
+	width:400px;
+	margin: 50px auto;
+	padding: 10px;
+}
+
+#title{
+	background: #fde0ff;
+	font-family: Verdana , sans-serif;
+	margin: auto;
+	padding: 10px;
+	text-align:center;
+}
+
+#img-container{
+	background: #fde0ff;
+	margin: 10px auto;
+	padding:20px;
+}
+
+#img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#list-container{
+	margin: 10px auto 0px auto;
+	background: #fde0ff;
+	padding: 10px;
+}
+
+ul#list{
+	list-style-type:none;
+}
+
+#list {
+	margin-left: 90px;
+	margin-right:auto;
+}

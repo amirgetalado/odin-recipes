@@ -1,0 +1,46 @@
+body{
+	background:#b8f7ff;
+}
+
+#container{
+	background:white;
+	width: 500px;
+	margin: 50px auto;
+	padding:10px;
+}
+
+#title{
+	background: #fde0ff;
+	padding: 20px;
+	margin: auto;
+	text-align: center;
+	font-family: Verdana , sans-serif;
+}
+
+#img-container, .containers{
+	background: #fde0ff;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+.containers{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#img{
+	display:block;
+	margin: auto;
+	height:250px;
+}
+
+#link{
+	text-align:center;
+	background: #fde0ff;
+	padding: 10px;
+	margin: 10px auto 0px auto;
+}
+
+a{
+	text-decoration:none
+}
